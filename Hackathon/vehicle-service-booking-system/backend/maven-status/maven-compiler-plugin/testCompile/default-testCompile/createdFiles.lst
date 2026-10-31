@@ -1,0 +1,4 @@
+com\vehicleservice\BookingServiceTest.class
+com\vehicleservice\VehicleServiceApplicationTests.class
+com\vehicleservice\AuthServiceTest.class
+com\vehicleservice\InventoryAndBillingTest.class
